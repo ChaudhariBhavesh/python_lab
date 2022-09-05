@@ -1,0 +1,13 @@
+#concatenating two TUPLES
+
+tuple1=(0,1,2,3)
+tuple2=('python','go')
+print(tuple1+tuple2)
+
+#Tuple repitition
+
+tuple3= ('python')*3
+print(tuple3)
+
+#Tuple slicing
+

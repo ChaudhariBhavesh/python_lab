@@ -1,0 +1,19 @@
+s = 'mybacon'
+print(s[2:5])
+
+print(s[2:7])
+
+print(s[0:2])
+
+#omitting first and last index
+
+print(s[:2])
+print(s[:5])
+print(s[2:])
+
+#Negative index slicing
+
+print(s[-5:-1])
+
+
+

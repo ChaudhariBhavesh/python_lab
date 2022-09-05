@@ -1,0 +1,7 @@
+print("Input a few random words or sentences with some words as duplicates: ")
+s = input()
+words = [word for word in s.split(" ")]
+print("Input before duplication removal and sorting: ")
+print(s)
+print("\nInput after duplication removal and sorting: ")
+print(" ".join(sorted(list(set(words)))))

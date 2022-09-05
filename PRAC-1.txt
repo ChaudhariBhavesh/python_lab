@@ -1,0 +1,15 @@
+name="Divya"
+print(type(name))
+print(id(name))
+
+ID = 21107003
+print(type(ID))
+print(id(ID))
+
+Salary = 4.8
+print(type(Salary))
+print(id(Salary))
+
+trio1= ["Shreya","Radhika","Divya"]
+print(type(trio1))
+print(id(trio1))

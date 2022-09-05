@@ -1,0 +1,15 @@
+#Creation of list
+
+college=["SIIET","GNIT","AVN"]
+print(college)
+
+#appending new college in list
+
+college.append("MVSR")
+print(college)
+
+#removing a name with an index
+
+college.remove("AVN")
+print(college)
+
